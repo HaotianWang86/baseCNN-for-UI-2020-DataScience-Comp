@@ -6,4 +6,4 @@ A one-layer CNN
 
 ## Data-Analysis appro 
 
-The way I analyze the data
+Analyze the training data
